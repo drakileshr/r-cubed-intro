@@ -50,7 +50,7 @@ page](https://r-cubed-intro.rostools.org).
 ## Instructional Design
 
 The lectures and lessons in this workshop are designed to be presented
-primarily with a participatory live-coding approach. This involves an
+primarily with a participatory live-coding approach. This involves a
 teacher typing and running code in an editor or similar platform in
 front of the class, while the class follows along using their own
 computers. Exercises are interspersed in the lesson material, allowing
